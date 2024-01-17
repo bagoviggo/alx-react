@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .App-header {
   color: red;
   display: flex;
@@ -32,3 +33,11 @@
   background-color: red;
   height: 5px;
 }
+=======
+.App-footer {
+  font-size: 1rem;
+  padding: 1.2rem;
+  text-align: center;
+  font-style: italic;
+}
+>>>>>>> 9df65442affb375a2f010c84da93423049944638
